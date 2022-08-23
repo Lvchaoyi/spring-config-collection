@@ -1,2 +1,2 @@
 server.port: 3355
-msg: {cipher}1054addf441b0da5766556139e1514bf515f918c16dddc879e4954da9bbacc5b
+msg: '{cipher}1054addf441b0da5766556139e1514bf515f918c16dddc879e4954da9bbacc5b'

@@ -1,3 +1,2 @@
-hello: ni
-ni: ahxx
-nn: n1xx1
+server.port: 12345
+msg: nmsl
